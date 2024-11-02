@@ -1,7 +1,7 @@
 {
   "name": "give-me-five",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "exports": {
     "types": "./dist/index.d.ts",
@@ -15,7 +15,8 @@
   ],
   "scripts": {
     "build": "microbundle",
-    "dev": "microbundle watch"
+    "dev": "microbundle watch",
+    "prepack": "microbundle"
   },
   "devDependencies": {
     "@types/bun": "latest",
