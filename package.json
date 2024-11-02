@@ -1,0 +1,28 @@
+{
+  "name": "give-me-five",
+  "license": "MIT",
+  "version": "1.0.0",
+  "type": "module",
+  "exports": {
+    "types": "./dist/index.d.ts",
+    "require": "./dist/index.cjs",
+    "default": "./dist/index.esm.js"
+  },
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.esm.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "microbundle",
+    "dev": "microbundle watch"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "microbundle": "^0.15.1"
+  },
+  "types": "./dist/index.d.ts",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
