@@ -3,6 +3,8 @@
 ![NPM Downloads](https://img.shields.io/npm/dm/give-me-five)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/mio9/give-me-five)
 ![Static Badge](https://img.shields.io/badge/very-useless-blue)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/mio9/give-me-five/main.yml)
+
 
 
 
