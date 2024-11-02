@@ -1,4 +1,11 @@
 # give-me-five
+![NPM License](https://img.shields.io/npm/l/give-me-five)
+![NPM Downloads](https://img.shields.io/npm/dm/give-me-five)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues-pr/mio9/give-me-five)
+![Static Badge](https://img.shields.io/badge/very-useless-blue)
+
+
+
 
 Give you a high five. Why do it yourself if there's a package out there?
 
