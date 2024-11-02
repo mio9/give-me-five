@@ -1,7 +1,7 @@
 {
   "name": "give-me-five",
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "type": "module",
   "exports": {
     "types": "./dist/index.d.ts",
@@ -23,6 +23,11 @@
     "microbundle": "^0.15.1"
   },
   "types": "./dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mio9/give-me-five"
+  },
+  "homepage": "https://github.com/mio9/give-me-five#readme",
   "peerDependencies": {
     "typescript": "^5.0.0"
   }
