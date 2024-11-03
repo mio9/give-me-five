@@ -42,4 +42,4 @@ To run:
 bun run index.ts
 ```
 
-This project was created using `bun init` in bun v1.1.33. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+This project is a joke created using `bun init` in bun v1.1.33. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime. There is nothing more than the number 5 being provided from this package.
