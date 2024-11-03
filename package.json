@@ -1,7 +1,7 @@
 {
   "name": "give-me-five",
   "license": "MIT",
-  "version": "1.0.3",
+  "version": "1.1.0",
   "type": "module",
   "exports": {
     "types": "./dist/index.d.ts",
