@@ -20,6 +20,14 @@ yarn add give-me-five # yarn, but why
 
 ```
 
+## Examples
+```js
+import {five} from "give-me-five"
+
+console.log(4 + five) // 9
+
+```
+
 ## Contributing
 
 To install dependencies:
